@@ -1,31 +1,59 @@
-# *Research-Intake-2026*
+# Research-Intake-2026 🎓
+### Gudsky Research Foundation
 
-Gudsky Research Intake 2026 is a 4-month mentor-led research training program by Gudsky Research Foundation designed to equip students with hands-on experience in research methodology, project design, and innovation across emerging tech domains. Apply now to advance your research skills and real-world impact!
+**Gudsky Research Intake 2026** is a **4-month mentor-led research training program** designed to equip students with:
 
-# References
+- Hands-on research methodology  
+- Data-driven project design  
+- Innovation across emerging technology domains  
+- Real-world problem solving experience  
 
-# A. Web URL
+This program bridges **academic research + industry-level execution**, empowering students to build impactful research portfolios.
 
-1. https://www.turing.com/
-2. https://oboe.com/
-3. https://statisticsbyjim.com/
-4. https://medium.com/
+---
 
-# B. Book Citation: Will be added Soon
+## Program Highlights
 
-# C. Code Repository
+- Structured research roadmap  
+- Mentor-guided weekly progress  
+- Practical implementation projects  
+- Exposure to modern AI, Data Science & Tech tools  
+- Research documentation & presentation training  
 
-1. https://github.com/ageron/handson-ml2/tree/master
+---
 
-# Cloud Platform:
+## Learning References
 
-1. https://lightning.ai
-2. https://www.kaggle.com/search
-3. https://aikosh.indiaai.gov.in/home/datasets/all
-4. https://colab.research.google.com
+### Web Resources
+- https://www.turing.com/  
+- https://oboe.com/  
+- https://statisticsbyjim.com/  
+- https://medium.com/  
 
-# Mentor Details
+### Books  
+*Will be added soon*
 
-Name: Abhishek Kumar Shukla (Founder - Gudsky Research Foundation)
-LinkedIn: https://www.linkedin.com/in/researcher-abhishek-kumar-shukla/
+### Code Repositories
+- https://github.com/ageron/handson-ml2/tree/master  
+
+---
+
+## Cloud & Research Platforms
+
+- https://lightning.ai  
+- https://www.kaggle.com/search  
+- https://aikosh.indiaai.gov.in/home/datasets/all  
+- https://colab.research.google.com  
+
+---
+
+## Mentor Details
+
+**Abhishek Kumar Shukla**  
+Founder — Gudsky Research Foundation  
+
+LinkedIn:  
+https://www.linkedin.com/in/researcher-abhishek-kumar-shukla/
+
+---
 
