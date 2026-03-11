@@ -35,7 +35,7 @@ This program bridges **academic research + industry-level execution**, empowerin
 
 ### Code Repositories
 - https://github.com/ageron/handson-ml2/tree/master  
-
+- https://github.com/microsoft/AI-For-Beginners
 ---
 
 ## Cloud & Research Platforms
